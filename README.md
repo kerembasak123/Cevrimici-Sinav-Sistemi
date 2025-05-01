@@ -38,13 +38,11 @@ Bu proje, BMÜ326 dersi dönem ödevi olarak, modern yazılım mühendisliği uy
 
 - **Ek Özellikler**:
   - **Quotable API** entegrasyonu ile motivasyonel alıntılar.
-  - **Oyunlaştırma**: Öğrenciler için puan tablosu, rozetler ve seviyeler.
   - Sınav hatırlatıcıları ve sonuç duyuruları için push bildirimleri.
-  - Çoklu dil desteği (Türkçe ve İngilizce).
   - Erişilebilirlik: Ekran okuyucu desteği ve yüksek kontrast modu.
 
 - **Teknik Özellikler**:
-  - **Flutter** ile iOS ve Android için geliştirildi.
+  - **Flutter** ile Android için geliştirildi.
   - **Firebase Firestore** ile NoSQL veritabanı.
   - **MVVM** mimarisi ile **Singleton** ve **Repository** tasarım desenleri.
   - **Git Flow** dallanma stratejisi (main, develop, feature, release).
